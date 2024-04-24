@@ -1,4 +1,7 @@
 # Miao-Character
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![访问量](https://profile-counter.glitch.me/Denfenglai/count.svg)](https://github.com/Denfenglai/Miao-Character/)<br>
  
 Miao-Plugin的女性角色涩涩面板图库
@@ -63,3 +66,25 @@ Yunzai-Bot/plugins/miao-plugin/resources/profile/normal-character
 
 #### 其他
 * 最后再求一个[爱发电](https://afdian.net/a/ShuiBZs1314520)，您的支持是维护本项目的动力
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Denfenglai"><img src="https://avatars.githubusercontent.com/u/129082426?v=4?s=100" width="100px;" alt="等风来"/><br /><sub><b>等风来</b></sub></a><br /><a href="https://github.com/Denfenglai/Miao-Character/commits?author=denfenglai" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
